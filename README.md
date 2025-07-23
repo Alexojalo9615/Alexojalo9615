@@ -1,8 +1,11 @@
-## Hi there 👋 I'm ALe !
+## Hi there 👋 I'm Ale !
 
 ### Junior Full Stack Developer
 
+## 🔭 Projects in evidence
 
+- Smackstore
+- 
 <!--
 **Alexojalo9615/Alexojalo9615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
