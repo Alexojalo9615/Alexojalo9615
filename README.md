@@ -2,6 +2,7 @@
 
 ## 👋 About Me
 
+
 I'm a Junior Full Stack Developer with background on ships, through my jobs and this course I developed solid problem solving, communication and focus on details skills.
 
 ## 🔭 Projects in evidence
