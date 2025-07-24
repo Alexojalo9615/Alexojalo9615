@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 Now what ma I studying ?
+## 🌱 What am I studying now ?
 I'm currently studying C++ To improve my tech skills and learn new concepts. C++ supports generic, functional and object-oriented programming. It's a compiled language that runs better and faster and more efficiently than many others.
 
