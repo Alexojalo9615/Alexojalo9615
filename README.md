@@ -10,11 +10,11 @@ I excited to see what the tech world has in store to me !
 
 ## ⚙️ Tech Stack
 
-**- Front-end:** React, JavaScript, CSS3, HTML5
-**- Back-end:** Node.js, Express
-**- Database:** MongoDB
-**- Tools:** Git, Github, VSCode
-**- Learning:** C++
+- **Front-end:** React, JavaScript, CSS3, HTML5
+- **Back-end:** Node.js, Express
+- **Database:** MongoDB
+- **Tools:** Git, Github, VSCode
+- **Learning:** C++
 
 ## 🔭 Featured Projects
 
