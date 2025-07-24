@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 ## 🌱 What am I studying now ?
 I'm currently studying C++ To improve my tech skills and learn new concepts. C++ supports generic, functional and object-oriented programming. It's a compiled language that runs better and faster and more efficiently than many others.
 
+## 💬 Fun Fact
+- I'm 1.98 meters tall - same as Michael Jordan.
+Still waiting for my dunking skills to show up. 🏀
+
 ## 📫 Contact me 
 
 - Email: alessandropestarino9615@gmail.com
