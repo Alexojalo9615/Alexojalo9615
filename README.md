@@ -1,9 +1,11 @@
 # Hi there 👋 I'm Ale !
 
 ## 👋 About Me
-
-
-I'm a Junior Full Stack Developer with background on ships, through my jobs and this course I developed solid problem solving, communication and focus on details skills.
+I'm a Junior Full Stack Developer with a background in the maritime industry. 
+Through my previous jobs and this course, I developed strong problem-solving abilities, effective communication skills and a great attention to details .
+I love building interactive user interfaces and experimenting with modern JavaScript tools.
+For my final exam I built **Smackstore** a wrestling-themed e-commerce platform.
+I excited to see what the tech world has in store to me !
 
 ## 🔭 Projects in evidence
 
