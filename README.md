@@ -6,7 +6,7 @@ I'm a Junior Full Stack Developer with a background in the maritime industry.
 Through my previous jobs and this course, I developed strong problem-solving abilities, effective communication skills and a great attention to details .
 I love building interactive user interfaces and experimenting with modern JavaScript tools.
 For my final exam I built **Smackstore** a wrestling-themed e-commerce platform.
-I excited to see what the tech world has in store to me !
+I am excited to see what the tech world has in store to me !
 
 ## ⚙️ Tech Stack
 
